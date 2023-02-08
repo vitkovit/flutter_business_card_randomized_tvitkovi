@@ -22,7 +22,7 @@ class Myapp extends StatelessWidget {
                   backgroundImage:NetworkImage('https://thispersondoesnotexist.com/image'),
                   //https://appicons.ai/images/hero@2x.png
                 ),
-                Text('Tom Vic',
+                Text('Dumb McFart',
                   style: TextStyle(
                     fontSize: 40,
                     color: Colors.white,
@@ -56,7 +56,7 @@ class Myapp extends StatelessWidget {
                       color: Colors.white,
                     ),
                     title: Text(
-                      '+385 99 590 6113',
+                      '+01 00 010 0011',
                       style: TextStyle(
                           color: Colors.orange,
                           fontFamily: 'Michroma',
@@ -78,7 +78,7 @@ class Myapp extends StatelessWidget {
                         size: 50,
                         color: Colors.white
                     ),
-                    title: Text('tvitkovi@akamai.com',
+                    title: Text('fake@email.com',
                       style: TextStyle(
                           color: Colors.orange,
                           fontFamily: 'Michroma',
