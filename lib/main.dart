@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-
 void main() {
   runApp(Myapp());
 }
@@ -56,7 +54,7 @@ class Myapp extends StatelessWidget {
                       color: Colors.white,
                     ),
                     title: Text(
-                      '+01 00 010 0011',
+                      '+00 10 10 10',
                       style: TextStyle(
                           color: Colors.orange,
                           fontFamily: 'Michroma',
@@ -97,6 +95,7 @@ class Myapp extends StatelessWidget {
           ),
         ),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
